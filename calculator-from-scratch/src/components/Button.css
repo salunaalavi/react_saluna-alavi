@@ -1,0 +1,15 @@
+button {
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 28px;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: purple;
+}
