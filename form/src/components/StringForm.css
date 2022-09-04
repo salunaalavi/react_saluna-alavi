@@ -1,0 +1,20 @@
+span {
+  display: flex;
+  flex-direction: column;
+  width: 8rem;
+  position: relative;
+  padding-top: 1rem;
+}
+.form-clicked {
+  display: none;
+}
+.form-label {
+  position: absolute;
+  font-size: 0.9em;
+  bottom: 1em;
+  background-color: #fff;
+  margin: 0;
+}
+input {
+  border-radius: 2rem;
+}
